@@ -64,18 +64,18 @@ nav ul li a:hover {
 }
 
 #aboutWrapper{
-    background: #e0e0e0;
-    box-shadow: 5px 5px 20px #bebebe, -5px -5px 20px #ffffff;
     margin-left: 600px;
     padding: 40px;
     border-radius: 35px;
-    color: #042019;
 }
 
 #about_text h2 {
     font-size: 100px;
     font-weight: 700;
     margin-bottom: -55px;
+    color: white; 
+    -webkit-text-stroke-width: 2px; 
+    -webkit-text-stroke-color: black; 
 }
 
 #about_text h3 {
@@ -83,13 +83,9 @@ nav ul li a:hover {
     margin-left: 98px;
     font-weight: 600;
     margin-bottom: -23px;
-}
-
-#about_text p {
-    margin-left: 70px;
-    font-size: 20px;
-    font-weight: 500;
-    padding-bottom: 20px;
+    color: white; 
+    -webkit-text-stroke-width: 2px; 
+    -webkit-text-stroke-color: black; 
 }
 
 .cardWrapper {
